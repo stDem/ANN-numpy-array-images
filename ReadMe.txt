@@ -1,0 +1,25 @@
+Assignment - WS24 retake final
+===============
+
+1. Data
+--------
+In this assignment you shall work with the following datasets: TRAIN, TEST and TEST2. For each of these the data are organized within folders by their labels. The data are numpy arrays of 28x28 images in the (C, H, W) format. You shall use no additional data to solve the tasks here below.
+
+2. Report
+---------
+You shall solve the tasks described here below and create a report in jupyter notebook showing your solution including code and all relevant comments, images tables. The code does not have to be all within the notebook but can be imported from scripts. As usual, you will submit the report and you will then defend it oraly demonstrating that you understand all the steps you have done to achieve the results.
+
+3. Tasks
+--------
+
+Task 1: You shall train a classification neural network model of your choice using the TRAIN data and evaluate it on the TEST data. You shall report or relevant metrics that you deem interesting including graphs and tables that can support your arguments. 
+When evaluating over the TEST data you are likely to obtain rather low performance as compared to the TRAIN. Explore your data carefully and argue for the reasons this is happening. Can you somehow improve the results on the TEST data or (at least partially) solve the problems? Think of a client who provided you with such data. What could you advise? What results can you provide to at least somehow help? There is no "single correct" solution. What I want to see here is you understanding the issue and thinking out of the box. Important: Though I give you the labels for the TEST data, you cannot use these for improving your results in this task. These shall be used only for measuring your performance! 
+
+Task 2: Apply the model trained over the TRAIN data on TEST2 datasets. Your performance shall be very bad. Can you somehow use the TEST data as additional training data to do better on TEST2? In this task you can use the TEST data as additional training data including the labels. Report your results, explain what you did and why, use your brain and try to improve the results as much as possible. Hint 1: Think of transfer learning. Hint 2: You can tweak the original data as you see fit. 
+
+4. Submission
+-------------
+You shall make your report available as a GitHub repository and share it with me - send me an email. 
+Deadline for submissions: Monday 3.2.2025 23:59.
+Defense discussions: Tuesday 4.2.2025 in CAIRO.
+Book your slots (first come first serve basis) via this link https://terminplaner6.dfn.de/p/65a532b255679d1f19ee6348a55b590d-1024839
