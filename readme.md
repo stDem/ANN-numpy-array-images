@@ -11,6 +11,9 @@ This assignment consits of the following files/folders:
 - readme.txt - combination of all steps, comments, explanations, and results. Mostly you can read the same notes among  code in .ipynb files, but here I tried to combine everything.
 - taskDescription.txt - initially provided readme.txt with tasks description.
 
+Dataset example
+<img src='./img/datasets_initial.png'>
+
 ======================================================
 1. Data analization.
 "./datasets-view.ipynb"
