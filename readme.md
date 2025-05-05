@@ -1,3 +1,6 @@
+# Numpy array images classification
+This project aimed to train different classification neural network models (VGG, ResNet, EfficientNet, HybridVGGResNet) using several TRAIN datasets and evaluate it on several TEST datasets.
+
 github repository: https://github.com/stDem/ANN-numpy-array-images
 
 This assignment consits of the following files/folders:
